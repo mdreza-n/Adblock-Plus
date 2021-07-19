@@ -558,14 +558,12 @@ www.zoomit.ir##.wide-adv-box
 www.yasdl.com###post-sabet-248702
 www.yasdl.com##.post.fixed-post.row
 www.uploadboy.com##.col-xs-12.col-sm-4.text-center
-www.uploadboy.com##.col-md-12
 yasdl.com###post-sabet-248702
 yasdl.com##.post.fixed-post.row
 zendegionline.ir##.advert
 zoomtech.ir###banner_img
 zoomtech.ir###top_ads
 uploadboy.com##.col-xs-12.col-sm-4.text-center
-uploadboy.com##.col-md-12
 ||uploadboy.com/images/asiatech300-100.gif
 ||www.uploadboy.com/images/asiatech300-100.gif
 ||1admin.ir/wp-content/uploads/*300x250.jpg
