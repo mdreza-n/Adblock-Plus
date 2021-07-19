@@ -453,7 +453,7 @@ shenoto.com##._ads
 smusic.ir###top-ads-right
 soft98.ir##.a7d5x-image
 soft98.ir##.a7d5x
-soft98.ir##.a7d7x
+soft98.ir##.a7d7x-image
 soft98.ir##.show.toast-lg.fade.toast
 techna.news##.custom-html-widget
 techna.news##.stream-item
