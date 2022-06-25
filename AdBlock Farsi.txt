@@ -488,8 +488,6 @@ wpnovin.com##.adwidget
 wpnovin.com##.header-ad
 wpnovin.com##.leftfix
 wpnovin.com##.rightfix
-uploadboy.com##.col-md-12
-www.uploadboy.com##.col-md-12
 www.1fardadownload.net##.ads
 www.1pezeshk.com###adtube-261
 www.1pezeshk.com##.category-ad-sidebar-2
